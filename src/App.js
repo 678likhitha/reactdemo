@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <apple-pay-button buttonstyle="white-outline" type="pay" locale="en">PAybuttion</apple-pay-button>
+      <button buttonstyle="white-outline" type="pay" locale="en">PAybuttion</button>
 <h1>Hello</h1>
     </div>
   );
